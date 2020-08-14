@@ -1,0 +1,7 @@
+Check_gc_required()변경 중
+현재는,,, 		//No invalid page to erase
+		if (block2->Current_page_write_index == 0 || block2->Invalid_page_count == 0) {
+			goto next;
+		}
+
+이 부분에 의해 차이가 없다. 하려는 작업은 erase하는 gc_erase관련 tr을 (gc_erase_tr)을 2개 이상 만들어 submit하는 것
