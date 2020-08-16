@@ -5,3 +5,9 @@ Check_gc_required()변경 중
 		}
 
 이 부분에 의해 차이가 없다. 하려는 작업은 erase하는 gc_erase관련 tr을 (gc_erase_tr)을 2개 이상 만들어 submit하는 것
+
+만일, 두개의 gc_erase_tr을 submit하는게 불가능 하다면,
+gc_required가 아니더라도 check() 할 때에 gc대상을 하나 만들어주자.
+
+check_gc_required()함수는 새로운 블럭이 필요할 때, gc가 필요한지 확인도 하지만 동시에 erase관련 transaction까지 날려준다.
+그러니 나는 타이머를 두고 하루가 지났을 때, check_gc_required()함수를 부르게 해보자. 그래서 문제가 없는지 확인해보자

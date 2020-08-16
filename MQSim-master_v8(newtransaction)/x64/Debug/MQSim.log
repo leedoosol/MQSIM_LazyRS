@@ -1,0 +1,73 @@
+﻿  NVM_Transaction_Flash_RPG.cpp
+  Device_Parameter_Set.cpp
+  Execution_Parameter_Set.cpp
+  Flash_Parameter_Set.cpp
+  Host_Parameter_Set.cpp
+  Host_System.cpp
+  IO_Flow_Parameter_Set.cpp
+  SSD_Device.cpp
+  IO_Flow_Base.cpp
+  IO_Flow_Synthetic.cpp
+  IO_Flow_Trace_Based.cpp
+  PCIe_Link.cpp
+  PCIe_Root_Complex.cpp
+  PCIe_Switch.cpp
+  SATA_HBA.cpp
+  main.cpp
+  Block.cpp
+  Die.cpp
+  Flash_Chip.cpp
+  Physical_Page_Address.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Plane.cpp
+  Engine.cpp
+  EventTree.cpp
+  Address_Mapping_Unit_Base.cpp
+  Address_Mapping_Unit_Hybrid.cpp
+  Address_Mapping_Unit_Page_Level.cpp
+  Data_Cache_Flash.cpp
+  Data_Cache_Manager_Base.cpp
+  Data_Cache_Manager_Flash_Advanced.cpp
+  Data_Cache_Manager_Flash_Simple.cpp
+  Flash_Block_Manager.cpp
+  Flash_Block_Manager_Base.cpp
+C:\Users\Dusol LEE\Desktop\SNU\lazyRS\MQSim_git\MQSIM_LazyRS\MQSim-master_v8(newtransaction)\src\ssd\Flash_Block_Manager_Base.cpp(152,33): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dusol LEE\Desktop\SNU\lazyRS\MQSim_git\MQSIM_LazyRS\MQSim-master_v8(newtransaction)\src\ssd\Flash_Block_Manager_Base.cpp(153,37): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dusol LEE\Desktop\SNU\lazyRS\MQSim_git\MQSIM_LazyRS\MQSim-master_v8(newtransaction)\src\ssd\Flash_Block_Manager_Base.cpp(132,44): warning C4101: 'page_address_tmp' :참조되지 않은 지역 변수입니다.
+  Flash_Transaction_Queue.cpp
+  FTL.cpp
+  GC_and_WL_Unit_Base.cpp
+  GC_and_WL_Unit_Page_Level.cpp
+  Host_Interface_Base.cpp
+  Host_Interface_NVMe.cpp
+  Host_Interface_SATA.cpp
+  NVM_Firmware.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  NVM_PHY_Base.cpp
+  NVM_PHY_ONFI.cpp
+  NVM_PHY_ONFI_NVDDR2.cpp
+  NVM_Transaction_Flash.cpp
+  NVM_Transaction_Flash_ER.cpp
+  NVM_Transaction_Flash_RD.cpp
+  NVM_Transaction_Flash_WR.cpp
+  ONFI_Channel_Base.cpp
+  ONFI_Channel_NVDDR2.cpp
+  Queue_Probe.cpp
+  Stats.cpp
+  TSU_Base.cpp
+  TSU_FLIN.cpp
+  TSU_OutofOrder.cpp
+  TSU_Priority_OutofOrder.cpp
+  User_Request.cpp
+  CMRRandomGenerator.cpp
+  Helper_Functions.cpp
+  Logical_Address_Partitioning_Unit.cpp
+  RandomGenerator.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  StringTools.cpp
+  XMLWriter.cpp
+  코드를 생성하고 있습니다...
+  MQSim.vcxproj -> C:\Users\Dusol LEE\Desktop\SNU\lazyRS\MQSim_git\MQSIM_LazyRS\MQSim-master_v8(newtransaction)\x64\Debug\MQSim.exe

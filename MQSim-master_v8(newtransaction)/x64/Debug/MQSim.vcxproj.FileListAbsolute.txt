@@ -1,0 +1,2 @@
+C:\Users\Dusol LEE\Desktop\SNU\lazyRS\MQSim_git\MQSIM_LazyRS\MQSim-master_v8(newtransaction)\x64\Debug\MQSim.exe
+C:\Users\Dusol LEE\Desktop\SNU\lazyRS\MQSim_git\MQSIM_LazyRS\MQSim-master_v8(newtransaction)\x64\Debug\MQSim.pdb
